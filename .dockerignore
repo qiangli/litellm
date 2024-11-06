@@ -9,3 +9,7 @@ tests
 .devcontainer
 *.tgz
 log.txt
+
+##
+enterprise/
+!enterprise/README.md
